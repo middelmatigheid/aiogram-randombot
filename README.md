@@ -1,4 +1,4 @@
-# aiogram_randombot
+# aiogram-randombot
 Telegram bot is based on 'The library if Babel' and 'Infinite monkey theorem'
 
 'The library if Babel' narrates about library, which stores books, that contains all possible symbols combinations. Despite most of them contains just random combinations and nothing useful, some of them contains all information about whole universe, about life of every person, who ever lived or would live on Earth, all written books by humans and just everything, that you can imagine, is already stored in those books
