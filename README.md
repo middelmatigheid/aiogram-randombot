@@ -88,7 +88,11 @@ PASSWORD='YOUR PASSWORD'
 PORT=YOUR PORT
 ```
 
-### 8. Run the bot
+### 8. Create directory
+
+Create **images** directory in the main folder
+
+### 9. Run the bot
 
 ```bash
 python main.py
