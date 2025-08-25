@@ -40,8 +40,8 @@ You can use any IDE you want, for example: PyCharm, VSCode, Python IDLE, etc.
 ### 2. Download ZIP or use git clone
 
 ```bash
-git clone https://github.com/middelmatigheid/aiogram-reminders.git
-cd flask-oktan
+git clone https://github.com/middelmatigheid/aiogram-randombot.git
+cd aiogram-randombot
 ```
 
 ### 3. Create virtual environment
