@@ -1,7 +1,7 @@
 # aiogram-randombot
 
 <div style="display: flex; gap: 25px; justify-content: center;">
-    <img src="images/screenshot_1.jpg" style="width: 300px;" alt="bot screenshot">
+    <img src="images/screenshot_1.jpg" style="width: 300px; margin-right: 25px;" alt="bot screenshot">
     <img src="images/screenshot_2.jpg" style="width: 300px;" alt="bot screenshot">
 </div>
 
